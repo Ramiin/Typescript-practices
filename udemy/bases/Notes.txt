@@ -1,0 +1,5 @@
+Inicializer config JSON:
+tsc --init
+
+-------------
+undefined puede ser asignado a una variable de tipo null
