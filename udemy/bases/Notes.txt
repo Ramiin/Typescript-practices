@@ -3,3 +3,6 @@ tsc --init
 
 -------------
 undefined puede ser asignado a una variable de tipo null
+
+-------------
+Parametros opcionales: Se coloca un simbolo de pregunta en el argumento.
