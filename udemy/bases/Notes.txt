@@ -6,3 +6,5 @@ undefined puede ser asignado a una variable de tipo null
 
 -------------
 Parametros opcionales: Se coloca un simbolo de pregunta en el argumento.
+----------------
+Parametros: Un parametro requerido no puede seguir despues de un parametro opcional
