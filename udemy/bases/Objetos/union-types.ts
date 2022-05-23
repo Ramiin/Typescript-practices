@@ -3,11 +3,19 @@
     type Hero = {
         name: string;
         age?: number;
-        powers: string[];
+        powers: number[];
         getName?: () => string
     }
 
     let myCustomVariable: string | number | Hero = 'Fernando';
-    
+
+    myCustomVariable=20;
+
+    myCustomVariable= {
+        name: 'Bruce',
+        age:43,
+        powers:[1]
+    }
+
  
 })()
