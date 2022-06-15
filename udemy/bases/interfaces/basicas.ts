@@ -2,7 +2,7 @@
 
 
     //Diferencia entre tipos e interfaces:
-    //Tipo: no puede extenderse, es fijo
+    //Tipo: no puede extenderse, es fijo, se usa por ej. en Redux cuando sabes que un tipo de dato no va a cambiar
     //Interface se pueden extender o expandir, agregar propiedades, etc
 
     //Escrito en Type:
