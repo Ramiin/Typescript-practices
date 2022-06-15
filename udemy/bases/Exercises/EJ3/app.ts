@@ -1,4 +1,4 @@
-
+(()=>{
 // Objetos
 
 type Auto ={
@@ -70,3 +70,5 @@ let mystique:Charles | Apocalipsis;
 
 mystique = charles;
 mystique = apocalipsis;
+
+})()
